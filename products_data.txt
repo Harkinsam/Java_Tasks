@@ -1,0 +1,244 @@
+Bars,Carrot,33,1.77
+Crackers,Whole Wheat,87,3.49
+Cookies,Chocolate Chip,58,1.87
+Cookies,Chocolate Chip,82,1.87
+Cookies,Arrowroot,38,2.18
+Bars,Carrot,54,1.77
+Crackers,Whole Wheat,149,3.49
+Bars,Carrot,51,1.77
+Bars,Carrot,100,1.77
+Snacks,Potato Chips,28,1.35
+Cookies,Arrowroot,36,2.18
+Cookies,Chocolate Chip,31,1.87
+Crackers,Whole Wheat,28,3.49
+Bars,Carrot,44,1.77
+Bars,Carrot,23,1.77
+Snacks,Potato Chips,27,1.35
+Cookies,Arrowroot,43,2.18
+Cookies,Oatmeal Raisin,123,2.84
+Bars,Bran,42,1.87
+Cookies,Oatmeal Raisin,33,2.84
+Cookies,Chocolate Chip,85,1.87
+Cookies,Oatmeal Raisin,30,2.84
+Bars,Carrot,61,1.77
+Crackers,Whole Wheat,40,3.49
+Cookies,Chocolate Chip,86,1.87
+Bars,Carrot,38,1.77
+Snacks,Potato Chips,68,1.68
+Cookies,Chocolate Chip,39,1.87
+Bars,Bran,103,1.87
+Cookies,Oatmeal Raisin,193,2.84
+Bars,Carrot,58,1.77
+Snacks,Potato Chips,68,1.68
+Bars,Carrot,91,1.77
+Crackers,Whole Wheat,23,3.49
+Snacks,Potato Chips,28,1.68
+Bars,Carrot,48,1.77
+Snacks,Potato Chips,134,1.68
+Bars,Carrot,20,1.77
+Bars,Carrot,53,1.77
+Snacks,Potato Chips,64,1.68
+Cookies,Chocolate Chip,63,1.87
+Bars,Bran,105,1.87
+Cookies,Oatmeal Raisin,138,2.84
+Bars,Carrot,25,1.77
+Crackers,Whole Wheat,21,3.49
+Bars,Carrot,61,1.77
+Snacks,Potato Chips,49,1.68
+Cookies,Chocolate Chip,55,1.87
+Cookies,Arrowroot,27,2.18
+Bars,Carrot,58,1.77
+Crackers,Whole Wheat,33,3.49
+Cookies,Oatmeal Raisin,288,2.84
+Cookies,Chocolate Chip,76,1.87
+Bars,Carrot,42,1.77
+Crackers,Whole Wheat,20,3.49
+Bars,Carrot,75,1.77
+Crackers,Whole Wheat,38,3.49
+Bars,Carrot,306,1.77
+Snacks,Potato Chips,28,1.68
+Bars,Bran,110,1.87
+Cookies,Oatmeal Raisin,51,2.84
+Bars,Carrot,52,1.77
+Crackers,Whole Wheat,28,3.49
+Bars,Carrot,136,1.77
+Crackers,Whole Wheat,42,3.49
+Cookies,Chocolate Chip,75,1.87
+Bars,Bran,72,1.87
+Cookies,Oatmeal Raisin,56,2.84
+Bars,Bran,51,1.87
+Snacks,Potato Chips,31,1.68
+Bars,Bran,56,1.87
+Cookies,Oatmeal Raisin,137,2.84
+Cookies,Chocolate Chip,107,1.87
+Bars,Carrot,24,1.77
+Crackers,Whole Wheat,30,3.49
+Cookies,Chocolate Chip,70,1.87
+Cookies,Arrowroot,31,2.18
+Bars,Carrot,109,1.77
+Crackers,Whole Wheat,21,3.49
+Cookies,Chocolate Chip,80,1.87
+Bars,Bran,75,1.87
+Cookies,Oatmeal Raisin,74,2.84
+Bars,Carrot,45,1.77
+Cookies,Arrowroot,28,2.18
+Bars,Carrot,143,1.77
+Snacks,Pretzels,27,3.15
+Bars,Carrot,133,1.77
+Cookies,Arrowroot,110,2.18
+Cookies,Chocolate Chip,65,1.87
+Bars,Bran,33,1.87
+Cookies,Arrowroot,81,2.18
+Bars,Carrot,77,1.77
+Crackers,Whole Wheat,38,3.49
+Bars,Carrot,40,1.77
+Snacks,Potato Chips,114,1.68
+Cookies,Arrowroot,224,2.18
+Bars,Carrot,141,1.77
+Crackers,Whole Wheat,32,3.49
+Bars,Carrot,20,1.77
+Cookies,Arrowroot,40,2.18
+Cookies,Chocolate Chip,49,1.87
+Crackers,Whole Wheat,46,3.49
+Bars,Carrot,39,1.77
+Snacks,Potato Chips,62,1.68
+Bars,Carrot,90,1.77
+Cookies,Arrowroot,103,2.18
+Cookies,Oatmeal Raisin,32,2.84
+Bars,Bran,66,1.87
+Cookies,Oatmeal Raisin,97,2.84
+Bars,Carrot,30,1.77
+Snacks,Potato Chips,29,1.68
+Bars,Carrot,92,1.77
+Cookies,Arrowroot,139,2.18
+Cookies,Oatmeal Raisin,29,2.84
+Bars,Banana,30,2.27
+Cookies,Chocolate Chip,36,1.87
+Crackers,Whole Wheat,41,3.49
+Bars,Carrot,44,1.77
+Snacks,Potato Chips,29,1.68
+Cookies,Arrowroot,237,2.18
+Cookies,Chocolate Chip,65,1.87
+Cookies,Arrowroot,83,2.18
+Cookies,Arrowroot,32,2.18
+Bars,Carrot,63,1.77
+Snacks,Pretzels,29,3.15
+Bars,Bran,77,1.87
+Cookies,Oatmeal Raisin,80,2.84
+Bars,Carrot,102,1.77
+Crackers,Whole Wheat,31,3.49
+Bars,Carrot,56,1.77
+Cookies,Arrowroot,52,2.18
+Bars,Carrot,51,1.77
+Snacks,Potato Chips,24,1.68
+Cookies,Arrowroot,58,2.18
+Cookies,Chocolate Chip,34,1.87
+Bars,Carrot,34,1.77
+Snacks,Potato Chips,21,1.68
+Cookies,Oatmeal Raisin,29,2.84
+Bars,Carrot,68,1.77
+Snacks,Pretzels,31,3.15
+Cookies,Arrowroot,30,2.18
+Cookies,Chocolate Chip,232,1.87
+Bars,Bran,68,1.87
+Cookies,Oatmeal Raisin,97,2.84
+Bars,Bran,86,1.87
+Snacks,Potato Chips,41,1.68
+Bars,Carrot,93,1.77
+Snacks,Potato Chips,47,1.68
+Bars,Carrot,103,1.77
+Snacks,Potato Chips,33,1.68
+Bars,Bran,57,1.87
+Cookies,Oatmeal Raisin,65,2.84
+Bars,Carrot,118,1.77
+Cookies,Arrowroot,36,2.18
+Cookies,Oatmeal Raisin,123,2.84
+Bars,Carrot,90,1.77
+Crackers,Whole Wheat,21,3.49
+Bars,Carrot,48,1.77
+Snacks,Potato Chips,24,1.68
+Cookies,Chocolate Chip,67,1.87
+Bars,Bran,27,1.87
+Cookies,Oatmeal Raisin,129,2.84
+Cookies,Arrowroot,77,2.18
+Cookies,Chocolate Chip,58,1.87
+Bars,Bran,47,1.87
+Cookies,Oatmeal Raisin,33,2.84
+Cookies,Chocolate Chip,82,1.87
+Bars,Carrot,58,1.77
+Snacks,Pretzels,30,3.15
+Cookies,Chocolate Chip,43,1.87
+Bars,Carrot,84,1.77
+Cookies,Arrowroot,36,2.18
+Cookies,Oatmeal Raisin,44,2.84
+Bars,Bran,27,1.87
+Cookies,Oatmeal Raisin,120,2.84
+Crackers,Whole Wheat,26,3.49
+Bars,Carrot,73,1.77
+Bars,Bran,38,1.87
+Cookies,Oatmeal Raisin,40,2.84
+Bars,Carrot,41,1.77
+Bars,Banana,27,2.27
+Cookies,Chocolate Chip,38,1.87
+Crackers,Whole Wheat,34,3.49
+Bars,Bran,65,1.87
+Cookies,Oatmeal Raisin,60,2.84
+Cookies,Arrowroot,37,2.18
+Cookies,Chocolate Chip,40,1.87
+Bars,Bran,26,1.87
+Bars,Banana,22,2.27
+Cookies,Chocolate Chip,32,1.87
+Crackers,Whole Wheat,23,3.49
+Cookies,Arrowroot,20,2.18
+Cookies,Chocolate Chip,64,1.87
+Bars,Carrot,71,1.77
+Cookies,Arrowroot,90,2.18
+Cookies,Oatmeal Raisin,38,2.84
+Bars,Carrot,55,1.77
+Snacks,Pretzels,22,3.15
+Bars,Carrot,34,1.77
+Bars,Bran,39,1.87
+Cookies,Oatmeal Raisin,41,2.84
+Bars,Carrot,41,1.77
+Cookies,Arrowroot,136,2.18
+Bars,Carrot,25,1.77
+Snacks,Pretzels,26,3.15
+Bars,Bran,50,1.87
+Cookies,Oatmeal Raisin,79,2.84
+Bars,Carrot,30,1.77
+Snacks,Potato Chips,20,1.68
+Bars,Carrot,49,1.77
+Cookies,Arrowroot,40,2.18
+Bars,Carrot,31,1.77
+Snacks,Pretzels,21,3.15
+Bars,Bran,43,1.87
+Cookies,Oatmeal Raisin,47,2.84
+Cookies,Arrowroot,175,2.18
+Cookies,Chocolate Chip,23,1.87
+Bars,Carrot,40,1.77
+Cookies,Arrowroot,87,2.18
+Bars,Carrot,43,1.77
+Crackers,Whole Wheat,30,3.49
+Bars,Carrot,35,1.77
+Bars,Bran,57,1.87
+Snacks,Potato Chips,25,1.68
+Cookies,Chocolate Chip,24,1.87
+Bars,Bran,83,1.87
+Cookies,Oatmeal Raisin,124,2.84
+Bars,Carrot,137,1.77
+Cookies,Arrowroot,146,2.18
+Cookies,Chocolate Chip,34,1.87
+Bars,Carrot,20,1.77
+Cookies,Arrowroot,139,2.18
+Cookies,Chocolate Chip,211,1.87
+Crackers,Whole Wheat,20,3.49
+Bars,Bran,42,1.87
+Cookies,Oatmeal Raisin,100,2.84
+Bars,Carrot,38,1.77
+Crackers,Whole Wheat,25,3.49
+Cookies,Chocolate Chip,96,1.87
+Cookies,Arrowroot,34,2.18
+Cookies,Chocolate Chip,245,1.87
+Crackers,Whole Wheat,30,3.49
+Bars,Bran,30,1.87
+Cookies,Oatmeal Raisin,44,2.84
