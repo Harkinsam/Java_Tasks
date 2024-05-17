@@ -1,4 +1,4 @@
-Bars,Carrot,33,1.77
+Bars,Carrot,2000,1.77
 Crackers,Whole Wheat,87,3.49
 Cookies,Chocolate Chip,58,1.87
 Cookies,Chocolate Chip,82,1.87
